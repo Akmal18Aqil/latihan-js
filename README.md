@@ -1,2 +1,2 @@
 # latihan-js
-Latihan dasar javascript
+Latihan dasar javascript untuk syarat pembelajaran di platform dicoding
